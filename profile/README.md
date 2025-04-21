@@ -1,8 +1,8 @@
-# Welcome to OpenOccult
+# Welcome to Open Occult
 
 ![OpenOccult Logo](https://openoccult.com/OpenOccult%20-%20LogoLetters.png)
 
-OpenOccult is an open-source initiative dedicated to providing accessible, high-quality resources for the exploration of the occult, spirituality, and divination practices. From ancient traditions to modern interpretations, OpenOccult aims to bridge the gap between knowledge and practice in a collaborative and inclusive environment.
+OpenOccult is an open-source initiative dedicated to providing accessible, high-quality resources for the exploration of the occult, spirituality, and divination practices. From ancient traditions to modern interpretations, Open Occult aims to bridge the gap between knowledge and practice in a collaborative and inclusive environment.
 
 ---
 
@@ -20,7 +20,7 @@ OpenOccult is an open-source initiative dedicated to providing accessible, high-
 - **Open-Source Datasets:** JSON-formatted, category-based data for occult studies and development projects.
 
 ### 3. **Educational Platforms**
-- **Academy:** [Coming Soon](https://openoccult.com) — Your gateway to learn divination, rituals, and occult practices interactively.
+- **Runeva:** [Coming Soon](https://openoccult.com) — Your gateway to learn divination, rituals, and occult practices interactively.
 - **GitHub Repositories:** Detailed, well-documented code and data for developers and enthusiasts.
 
 ---
@@ -56,7 +56,7 @@ For detailed contribution guidelines, check the [CONTRIBUTING.md](./CONTRIBUTING
 - A multi-functional bot providing divination, occult knowledge, and interactive tools.
 - Built with Node.js, Discord.js, and TypeScript.
 
-### 3. **Academy Platform**
+### 3. **Runeva Academic Platform**
 - Intuitive, community-driven learning platform for spiritual and occult practices.
 - Offers courses, interactive tools, and guided exercises.
 
@@ -72,7 +72,7 @@ For detailed contribution guidelines, check the [CONTRIBUTING.md](./CONTRIBUTING
 ## 🤝 **Community & Support**
 
 ### Connect With Us:
-- **Website:** [openoccult.com](https://openoccult.com)
+- **Website:** [openoccult](https://openoccult.com)
 - **Discord Server:** [Join Here](https://discord.gg/)
 
 ### Need Help?
