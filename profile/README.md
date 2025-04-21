@@ -2,7 +2,7 @@
 
 ![OpenOccult Logo](https://openoccult.com/OpenOccult%20-%20LogoLetters.png)
 
-OpenOccult is an open-source initiative dedicated to providing accessible, high-quality resources for the exploration of the occult, spirituality, and divination practices. From ancient traditions to modern interpretations, Open Occult aims to bridge the gap between knowledge and practice in a collaborative and inclusive environment.
+Open Occult is an open-source initiative dedicated to providing accessible, high-quality resources for the exploration of the occult, spirituality, and divination practices. From ancient traditions to modern interpretations, Open Occult aims to bridge the gap between knowledge and practice in a collaborative and inclusive environment.
 
 ---
 
