@@ -27,10 +27,10 @@ Open Occult is an open-source initiative dedicated to providing accessible, high
 
 ## 💻 **Getting Started**
 
-### Clone the Repository
+### Clone A Repository
 ```bash
-# Clone the organization repository
-$ git clone https://github.com/OpenOccult
+# Clone one of open occult's repository
+$ git clone https://github.com/openoccult/repo-here
 ```
 
 ### Contribute
@@ -76,8 +76,8 @@ For detailed contribution guidelines, check the [CONTRIBUTING.md](./CONTRIBUTING
 - **Discord Server:** [Join Here](https://discord.gg/)
 
 ### Need Help?
-- **Issues:** Report bugs or request features in our [Issues section](https://github.com/OpenOccult/issues).
-- **Discussions:** Join conversations in the [GitHub Discussions](https://github.com/OpenOccult/discussions).
+- **Discussions:** Join conversations in the [GitHub Discussions](https://github.com/openoccult/discussions).
+- **Contact:** Contact us for more support! [Contact Open Occult](https://openoccult.com/contact)
 
 ---
 
